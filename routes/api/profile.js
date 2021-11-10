@@ -57,6 +57,7 @@ router.post(
       twitter,
       instagram,
       linkedin,
+      other
     } = req.body;
 
     //Build profile object
